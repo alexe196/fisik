@@ -1,0 +1,22 @@
+
+{
+  "name": "alexei/fisica",
+  "description": "test package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexei Berezko",
+      "email": "berezkoas@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "fisica\\": "/"
+    }
+  },
+
+  "minimum-stability": "dev",
+  "require": {}
+
+}
